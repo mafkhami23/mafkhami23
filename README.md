@@ -7,7 +7,7 @@ UX Researcher | Experience Strategist | Data Systems Thinker
 ## 🔍 About Me
 I'm a design researcher and strategist focused on turning complex data into actionable insights for digital experiences, physical environments, and organizational decision-making. My work blends UX research, journey mapping, and quantitative analysis to solve real-world problems—often at the intersection of design, behavior, and technology.
 
-I've led initiatives for data-informed urban design, scalable survey research, and tool development across sectors like transportation, finance, education, and sustainability.
+I've led initiatives for data-informed urban design, scalable survey research, and tool development across sectors like aviation, finance, education, and sustainability.
 
 ---
 
