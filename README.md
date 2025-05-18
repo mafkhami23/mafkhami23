@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahdi Afkhami, PhD
+# Hi, I'm Mahdi Afkhami, PhD
 
 UX Researcher | Experience Strategist | Data Systems Thinker
 
@@ -11,7 +11,7 @@ I've led initiatives for data-informed urban design, scalable survey research, a
 
 ---
 
-## 💼 What I Do
+## What I Do
 - **Mixed-Methods UX Research** – From qualitative interviews to survey analytics and behavioral insights
 - **Strategic Foresight & Journey Mapping** – Mapping user flows, system pain points, and future-state models
 - **Data Visualization & Tool Building** – Python, Excel, and visual storytelling for complex datasets
@@ -20,7 +20,7 @@ I've led initiatives for data-informed urban design, scalable survey research, a
 ---
 
 ## 🛠️ Featured Projects
-### [🌇 Urban Heat Island Mitigation Study](https://github.com/mahdi-afkhami/UHI-Mitigation-Toolkit)
+### [Urban Heat Island Mitigation Study](https://github.com/mahdi-afkhami/UHI-Mitigation-Toolkit)
 Mixed-methods research using satellite data, survey analysis, and neighborhood modeling to guide climate-resilient urban design.
 
 ### [📉 Mass Timber Carbon Calculator](https://www.corgan.com/MTcarboncalculator)
@@ -31,14 +31,14 @@ Real-time data collection and IAQ sensing integrated into airport environments t
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 - Behavioral segmentation and emotion-driven UX
 - AI-assisted research workflows
 - Heat resilience and mental well-being in public space design
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/mahdi-afkhamiaghda/)
 - [Email](mailto:afkhami.mahdi1991@gmail.com)
 
