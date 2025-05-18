@@ -23,7 +23,7 @@ I've led initiatives for data-informed urban design, scalable survey research, a
 ### [Urban Heat Island Mitigation Study](https://github.com/mahdi-afkhami/UHI-Mitigation-Toolkit)
 Mixed-methods research using satellite data, survey analysis, and neighborhood modeling to guide climate-resilient urban design.
 
-### [📉 Mass Timber Carbon Calculator](https://www.corgan.com/MTcarboncalculator)
+### [Mass Timber Carbon Calculator](https://www.corgan.com/MTcarboncalculator)
 A tool designed to estimate biogenic carbon and CO₂e emissions in mass timber projects—used by architects and builders to make smarter material choices.
 
 ### [Airport Experience Sensor Study (Internal)]()
