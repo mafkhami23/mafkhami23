@@ -4,7 +4,7 @@ UX Researcher | Experience Strategist | Data Systems Thinker
 
 ---
 
-## 🔍 About Me
+##About Me
 I'm a design researcher and strategist focused on turning complex data into actionable insights for digital experiences, physical environments, and organizational decision-making. My work blends UX research, journey mapping, and quantitative analysis to solve real-world problems—often at the intersection of design, behavior, and technology.
 
 I've led initiatives for data-informed urban design, scalable survey research, and tool development across sectors like aviation, finance, education, and sustainability.
@@ -19,14 +19,14 @@ I've led initiatives for data-informed urban design, scalable survey research, a
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 ### [Urban Heat Island Mitigation Study](https://github.com/mahdi-afkhami/UHI-Mitigation-Toolkit)
 Mixed-methods research using satellite data, survey analysis, and neighborhood modeling to guide climate-resilient urban design.
 
 ### [📉 Mass Timber Carbon Calculator](https://www.corgan.com/MTcarboncalculator)
 A tool designed to estimate biogenic carbon and CO₂e emissions in mass timber projects—used by architects and builders to make smarter material choices.
 
-### [✈️ Airport Experience Sensor Study (Internal)]()
+### [Airport Experience Sensor Study (Internal)]()
 Real-time data collection and IAQ sensing integrated into airport environments to evaluate comfort, movement, and user behavior.
 
 ---
