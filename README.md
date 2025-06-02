@@ -20,13 +20,13 @@ I've led initiatives for data-informed urban design, scalable survey research, a
 ---
 
 ## Featured Projects
-### [Urban Heat Island Mitigation Study](https://github.com/mahdi-afkhami/UHI-Mitigation-Toolkit)
+### [Urban Heat Island Mitigation Study](https://github.com/mafkhami23/Urban-Heat-Island-Mitigation)
 Mixed-methods research using satellite data, survey analysis, and neighborhood modeling to guide climate-resilient urban design.
 
 ### [Mass Timber Carbon Calculator](https://www.corgan.com/MTcarboncalculator)
 A tool designed to estimate biogenic carbon and CO₂e emissions in mass timber projects—used by architects and builders to make smarter material choices.
 
-### [Airport Experience Sensor Study (Internal)]()
+### [Airport Experience Sensor Study](https://github.com/mafkhami23/Indoor-Air-Quality-Sensor)
 Real-time data collection and IAQ sensing integrated into airport environments to evaluate comfort, movement, and user behavior.
 
 ---
