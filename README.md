@@ -26,7 +26,7 @@ Mixed-methods research using satellite data, survey analysis, and neighborhood m
 ### [Mass Timber Carbon Calculator](https://www.corgan.com/MTcarboncalculator)
 A tool designed to estimate biogenic carbon and CO₂e emissions in mass timber projects—used by architects and builders to make smarter material choices.
 
-### [Airport Terminal Performance Optimization](https://github.com/mafkhami23/Indoor-Air-Quality-Sensor)
+### [Airport Terminal Performance Optimization](https://github.com/mafkhami23/Airport_Terminal_Performance_Optimization)
 Real-time data collection and IAQ sensing integrated into airport environments to evaluate comfort, movement, and user behavior.
 
 ---
