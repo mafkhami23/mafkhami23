@@ -23,7 +23,7 @@ I've led initiatives for data-informed urban design, scalable survey research, a
 ### [Urban Heat Island Mitigation Study](https://github.com/mafkhami23/Urban-Heat-Island-Mitigation)
 Mixed-methods research using satellite data, survey analysis, and neighborhood modeling to guide climate-resilient urban design.
 
-### [Strategic User Research for Data-Driven Decision Making]
+### [Residency Reshaped](https://github.com/mafkhami23/Residency_Reshaped)
 A data-driven exploration of future living models that redefines community, flexibility, and well-being in multifamily housing.
 
 ### [Mass Timber Carbon Calculator](https://www.corgan.com/MTcarboncalculator)
