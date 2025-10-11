@@ -43,7 +43,7 @@ Real-time data collection and IAQ sensing integrated into airport environments t
 
 ## 🤝Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/mahdi-afkhamiaghda/)
-- [Email](mailto:afkhami.mahdi1991@gmail.com)
+- [Email](mailto:mahdi.afkhami.insight@gmail.com)
 
 > Open to collaborations in research, innovation strategy, and experience design. Always curious, always building.
 
