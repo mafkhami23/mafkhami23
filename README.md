@@ -22,6 +22,9 @@ I’ve led research and built data-driven tools across aviation, workplace, and 
 ---
 
 ## 🌟Featured Projects
+
+### [Voice of Customer Analytics Pipeline](https://github.com/mafkhami23/Voice-of-customer-analytics-pipeline)
+Implementing an end-to-end analytics pipeline that converts unstructured review data into structured insights using NLP, clustering, and sentiment analysis. The output supports scalable benchmarking and experience optimization across locations.
 ### [Urban Heat Island Mitigation Study](https://github.com/mafkhami23/Urban-Heat-Island-Mitigation)
 Mixed-methods research using satellite data, survey analysis, and neighborhood modeling to guide climate-resilient urban design.
 
