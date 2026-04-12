@@ -5,9 +5,11 @@
 ---
 
 ## 💬About Me
-I'm a design researcher and strategist focused on turning complex data into actionable insights for digital experiences, physical environments, and organizational decision-making. My work blends UX research, journey mapping, and quantitative analysis to solve real-world problems—often at the intersection of design, behavior, and technology.
+I’m a design researcher focused on using data to drive product and experience decisions across digital and physical systems.
 
-I've led initiatives for data-informed urban design, scalable survey research, and tool development across sectors like aviation, finance, education, and sustainability.
+My work combines mixed-methods UX research with quantitative analysis—including large-scale surveys, behavioral data, and statistical modeling—to uncover patterns in how users interact with products and environments. I translate these insights into actionable recommendations, tools, and frameworks that teams can use to prioritize features, optimize journeys, and measure performance.
+
+I’ve led research and built data-driven tools across aviation, workplace, and urban systems—working closely with cross-functional stakeholders to connect user behavior, business goals, and design strategy.
 
 ---
 
