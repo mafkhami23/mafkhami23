@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahdi Afkhami, PhD
 
-🔍 UX Researcher | 🧠 Experience Strategist | 📊 Data Systems Thinker
+🔍 Design Researcher | 🧠 Experience Strategist | 📊 Data Systems Thinker
 
 ---
 
