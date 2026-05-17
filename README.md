@@ -31,9 +31,6 @@ Mixed-methods research using satellite data, survey analysis, and neighborhood m
 ### [Residency Reshaped](https://github.com/mafkhami23/Residency_Reshaped)
 A data-driven exploration of future living models that redefines community, flexibility, and well-being in multifamily housing.
 
-### [Mass Timber Carbon Calculator](https://github.com/mafkhami23/Mass-Timber-Embodied-Carbon/tree/main)
-A tool designed to estimate biogenic carbon and CO₂e emissions in mass timber projects—used by architects and builders to make smarter material choices.
-
 ### [Airport Terminal Performance Optimization](https://github.com/mafkhami23/Airport_Terminal_Performance_Optimization)
 Real-time data collection and IAQ sensing integrated into airport environments to evaluate comfort, movement, and user behavior.
 
